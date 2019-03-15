@@ -9,4 +9,8 @@ wwwwww
 
 ssss
 
+<<<<<<< HEAD
 haha
+=======
+qqq
+>>>>>>> 6a86728b53748238bdadaceecf948aec706cc30d
